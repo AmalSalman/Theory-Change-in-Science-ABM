@@ -13,9 +13,9 @@ This repository contains associated files for the master's thesis titled "Explor
 
 ## How to Use:
 
-1- Download and install the GAMA platform (version 1.9.3) from the official website: https://gama-platform.org/
-2- Copy the Theory_Change_BEN folder or clone this repository into your GAMA_Workspace folder
-3- Alternatively, download final_model.zip open GAMA, right-click on User Models, click on Import -> GAMA Project, choose Select archive file and locate the .zip file in your downloads folder.
-4- Open the TheoryChangeBEN.gaml model file in GAMA.
-5- Run the model by clicking the 'model_visualization' play button in GAMA.
-6- Explore the model's behavior by running simulations with different parameter settings, changing them in the parameters pane.
+1. Download and install the GAMA platform (version 1.9.3) from the official website: https://gama-platform.org/
+2. Copy the Theory_Change_BEN folder or clone this repository into your GAMA_Workspace folder
+3. Alternatively, download final_model.zip open GAMA, right-click on User Models, click on Import -> GAMA Project, choose Select archive file and locate the .zip file in your downloads folder.
+4. Open the TheoryChangeBEN.gaml model file in GAMA.
+5. Run the model by clicking the 'model_visualization' play button in GAMA.
+6. Explore the model's behavior by running simulations with different parameter settings, changing them in the parameters pane.
