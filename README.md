@@ -2,6 +2,7 @@
 
 This repository contains associated files for the master's thesis titled "Exploring Cognitive Architectures in the Social Epistemology of Science: An Agent-Based Model" by Amal Salman. This project models the process of theory change in scientific communities using an agent-based model (ABM) implemented in the GAMA platform. The model uses uses the BEN cognitive architecture to simulate decision-making processes of agents (scientists), and focuses on how individual cognitive processes and social interactions influence the replacement of a dominant theory in the face of an anomaly. The model is analogous to a fire evacuation model, where the fire represents an anomaly in the dominant theory, and the smoke spreading from it represents the accumulation of evidence supporting the anomaly. Scientists (agents) in the model can investigate the anomaly, publish findings that increase the "smoke level" (strength of evidence), and ultimately decide whether to exit/evacuate, representing that they abandoned their current theory and adopted a new one.
 
+Please find the thesis defence presentation here: https://prezi.com/view/ndTzQ6BBSbGHaBuoVlhy/
 
 ## Files included:
 
